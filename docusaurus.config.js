@@ -9,7 +9,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: '叶扬眉的网站',
-  tagline: '非常酷',
+  tagline: '非常酷啊',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
